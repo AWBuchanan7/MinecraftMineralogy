@@ -1,6 +1,7 @@
-# Mineralogy
-## Cyano's Minecraft Mineralogy Mod
-This mod replaces the generic "stone" in Minecraft with real-world rock types.
+# minecraft-mineralogy
+Mineralogy is a mod (originally written by Cyano) that replaces the generic "stone" in Minecraft with real-world rock types.
+
+This is a fork of that mod.
 
 ## Requirements
 This mod requires that you install Minecraft Forge version 1.7.10-10.13.1.1219 or later (ealier versions of Forge for Minecraft 1.7.10 may work, but no guarentees).
