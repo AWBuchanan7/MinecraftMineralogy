@@ -30,3 +30,4 @@ secret.json
 libs/*
 
 .DS_Store
+buildlog.txt
